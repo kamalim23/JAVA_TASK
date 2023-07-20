@@ -1,0 +1,207 @@
+byte method:
+
+
+class variable_type
+
+        
+ 
+             {
+             public static void main(String args[]){
+ 	     byte a = 20;
+	     byte b = 98;
+          
+
+             System.out.println("a+b");
+
+	     System.out.println(a+b);
+
+             System.out.println("a-b");
+
+             System.out.println(a-b);
+
+             System.out.println("a*b");
+             System.out.println(a*b);
+             System.out.println("a/b");
+             System.out.println(a/b);}
+            }
+
+
+            
+short method:
+
+
+class variable_type
+{
+
+         static short a = 150,b = 190;
+         
+ 
+             
+            
+ 	                public static void main(String args[]){
+          
+
+                        System.out.println("a+b");
+
+	                System.out.println(a+b);
+
+                        System.out.println("a-b");
+
+                        System.out.println(a-b);
+
+                        System.out.println("a*b");
+
+                        System.out.println(a*b);
+
+                        System.out.println("a/b");
+
+                        System.out.println(a/b);
+                        }
+            
+              
+
+
+}   
+
+int method:
+
+
+class variable_type
+{
+
+         int a = 1680;
+         int b = 1222;
+         
+ 
+             
+            
+ 	                public static void main(String args[]){
+
+                        variable_type obj = new variable_type();
+
+                        System.out.println("a+b");
+
+	                System.out.println( obj.a+ obj.b);
+
+                        System.out.println("a-b");
+
+                        System.out.println(obj.a- obj.b);
+
+                        System.out.println("a*b");
+
+                        System.out.println( obj.a* obj.b);
+
+                        System.out.println("a/b");
+
+                        System.out.println( obj.a/ obj.b);
+                        }
+            
+              
+
+
+}  
+
+
+double.method:
+
+class variable_type
+{
+
+          double a = 111.99999;
+         double  b = 333.45678;
+         
+ 
+             
+            
+ 	                public static void main(String args[]){
+
+                        variable_type obj = new variable_type();
+
+                        System.out.println("a+b");
+
+	                System.out.println( obj.a+ obj.b);
+
+                        System.out.println("a-b");
+
+                        System.out.println(obj.a- obj.b);
+
+                        System.out.println("a*b");
+
+                        System.out.println( obj.a* obj.b);
+
+                        System.out.println("a/b");
+
+                        System.out.println( obj.a/ obj.b);
+                        }
+            
+              
+
+
+}   
+
+
+float method:
+
+
+
+class variable_type
+{
+
+         static float a = 34.4f,b = 55.8f;
+         
+ 
+             
+            
+ 	                public static void main(String args[]){
+          
+
+                        System.out.println("a+b");
+
+	                System.out.println(a+b);
+
+                        System.out.println("a-b");
+
+                        System.out.println(a-b);
+
+                        System.out.println("a*b");
+
+                        System.out.println(a*b);
+
+                        System.out.println("a/b");
+
+                        System.out.println(a/b);
+                        }
+            
+              
+
+
+}   
+
+
+
+long method:
+
+
+class variable_type
+
+        
+ 
+             {
+             public static void main(String args[]){
+ 	     long a = 2345678905l;
+	     long b = 9876523456l;
+          
+
+             System.out.println("a+b");
+
+	     System.out.println(a+b);
+
+             System.out.println("a-b");
+
+             System.out.println(a-b);
+
+             System.out.println("a*b");
+             System.out.println(a*b);
+             System.out.println("a/b");
+             System.out.println(a/b);}
+            }
